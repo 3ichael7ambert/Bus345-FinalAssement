@@ -1,0 +1,11 @@
+customerid,firstname,lastname,email,phone,address,createdat
+1,John,Doe,john.doe@example.com,555-1234,"123 Elm St, Springfield",2024-09-12 20:06:05.407971
+2,Jane,Smith,jane.smith@example.com,555-5678,"456 Oak St, Springfield",2024-09-12 20:06:05.407971
+3,Robert,Johnson,robert.johnson@example.com,555-9101,"789 Pine St, Springfield",2024-09-12 20:06:05.407971
+4,Emily,Davis,emily.davis@example.com,555-1122,"101 Maple St, Springfield",2024-09-12 20:06:05.407971
+5,Michael,Wilson,michael.wilson@example.com,555-3344,"202 Birch St, Springfield",2024-09-12 20:06:05.407971
+6,Sarah,Lee,sarah.lee@example.com,555-5566,"303 Cedar St, Springfield",2024-09-12 20:06:05.407971
+7,David,Clark,david.clark@example.com,555-7788,"404 Walnut St, Springfield",2024-09-12 20:06:05.407971
+8,Laura,Walker,laura.walker@example.com,555-9900,"505 Spruce St, Springfield",2024-09-12 20:06:05.407971
+9,James,Harris,james.harris@example.com,555-1212,"606 Redwood St, Springfield",2024-09-12 20:06:05.407971
+10,Linda,Lewis,linda.lewis@example.com,555-3434,"707 Fir St, Springfield",2024-09-12 20:06:05.407971
